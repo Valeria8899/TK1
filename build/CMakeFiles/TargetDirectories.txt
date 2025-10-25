@@ -1,0 +1,3 @@
+/home/valeriazagrev/rza-course8899/TK2/build/CMakeFiles/tk2.dir
+/home/valeriazagrev/rza-course8899/TK2/build/CMakeFiles/edit_cache.dir
+/home/valeriazagrev/rza-course8899/TK2/build/CMakeFiles/rebuild_cache.dir

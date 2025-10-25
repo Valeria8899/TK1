@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/tk2.dir/link.d CMakeFiles/tk2.dir/main.cpp.o CMakeFiles/tk2.dir/signalhandler.cpp.o -o tk2
